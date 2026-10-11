@@ -1,0 +1,75 @@
+{
+  "Tomato_Bacterial_spot": {
+    "precision": 0.8526912181303116,
+    "recall": 0.9435736677115988,
+    "f1-score": 0.8958333333333334,
+    "support": 319.0
+  },
+  "Tomato_Early_blight": {
+    "precision": 0.7575757575757576,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.7092198581560284,
+    "support": 150.0
+  },
+  "Tomato_Late_blight": {
+    "precision": 0.8869257950530035,
+    "recall": 0.8745644599303136,
+    "f1-score": 0.8807017543859649,
+    "support": 287.0
+  },
+  "Tomato_Leaf_Mold": {
+    "precision": 0.8962962962962963,
+    "recall": 0.8461538461538461,
+    "f1-score": 0.8705035971223022,
+    "support": 143.0
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "precision": 0.937799043062201,
+    "recall": 0.7368421052631579,
+    "f1-score": 0.8252631578947368,
+    "support": 266.0
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "precision": 0.8543307086614174,
+    "recall": 0.8611111111111112,
+    "f1-score": 0.857707509881423,
+    "support": 252.0
+  },
+  "Tomato__Target_Spot": {
+    "precision": 0.7037037037037037,
+    "recall": 0.8142857142857143,
+    "f1-score": 0.7549668874172185,
+    "support": 210.0
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "precision": 0.9868995633187773,
+    "recall": 0.9338842975206612,
+    "f1-score": 0.9596602972399151,
+    "support": 484.0
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "precision": 0.6292134831460674,
+    "recall": 1.0,
+    "f1-score": 0.7724137931034483,
+    "support": 56.0
+  },
+  "Tomato_healthy": {
+    "precision": 0.9196787148594378,
+    "recall": 0.9621848739495799,
+    "f1-score": 0.9404517453798767,
+    "support": 238.0
+  },
+  "accuracy": 0.8706860706860707,
+  "macro avg": {
+    "precision": 0.8425114283806974,
+    "recall": 0.863926674259265,
+    "f1-score": 0.8466721933914247,
+    "support": 2405.0
+  },
+  "weighted avg": {
+    "precision": 0.8784471831287027,
+    "recall": 0.8706860706860707,
+    "f1-score": 0.8711687486403559,
+    "support": 2405.0
+  }
+}

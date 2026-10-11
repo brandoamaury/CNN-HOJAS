@@ -1,0 +1,93 @@
+{
+  "Tomato_Bacterial_spot": {
+    "etiqueta": "Mancha bacteriana",
+    "agente": "Bacteria (Xanthomonas spp.)",
+    "tieneTratamiento": true,
+    "causa": "Bacterias que se propagan con salpicaduras de lluvia o riego, semillas contaminadas y herramientas o manos que tocan plantas mojadas. Se favorece con clima cálido y húmedo.",
+    "sintomas": "Manchas pequeñas, oscuras y de aspecto húmedo que se vuelven café-negras, a veces con halo amarillo. En el fruto forma costras rugosas.",
+    "tratamiento": "Quitar y destruir las hojas afectadas. Aplicar bactericidas a base de cobre siguiendo la etiqueta. Evitar el riego por aspersión y no trabajar el cultivo cuando las plantas están mojadas.",
+    "prevencion": "Semilla certificada o tratada, rotar el cultivo 2 o 3 años con plantas que no sean solanáceas, desinfectar herramientas y regar por goteo."
+  },
+  "Tomato_Early_blight": {
+    "etiqueta": "Tizón temprano",
+    "agente": "Hongo (Alternaria solani)",
+    "tieneTratamiento": true,
+    "causa": "Hongo que sobrevive en restos de cultivo y suelo; se dispersa con viento y salpicaduras. Aparece con calor, rocío o lluvias frecuentes y en plantas débiles.",
+    "sintomas": "Manchas café con anillos concéntricos (como tiro al blanco) y halo amarillo. Empieza en las hojas más viejas, las de abajo.",
+    "tratamiento": "Retirar las hojas bajas afectadas. Aplicar fungicidas protectores y, si avanza, uno sistémico, alternando ingredientes activos. Mantener buena fertilización.",
+    "prevencion": "Rotar cultivos, eliminar restos de la cosecha anterior, dejar espacio entre plantas, regar por la base y usar acolchado."
+  },
+  "Tomato_Late_blight": {
+    "etiqueta": "Tizón tardío",
+    "agente": "Oomiceto parecido a un hongo (Phytophthora infestans)",
+    "tieneTratamiento": true,
+    "causa": "Sus esporas viajan con el viento y la lluvia. Se dispara con clima fresco (10 a 25 °C), niebla, lluvias prolongadas y humedad alta. Puede destruir un cultivo en pocos días.",
+    "sintomas": "Manchas grandes, irregulares, verde oscuro y de aspecto aceitoso que se vuelven café. Con humedad aparece un moho blanquecino en el envés. También ataca tallos y frutos.",
+    "tratamiento": "Actuar rápido: fungicidas de forma preventiva o apenas se vean los primeros síntomas, alternando ingredientes activos. Arrancar y embolsar las plantas muy afectadas; no hacer composta con ellas.",
+    "prevencion": "Variedades resistentes, evitar mojar el follaje, favorecer la ventilación y no dejar plantas o frutos enfermos en el terreno."
+  },
+  "Tomato_Leaf_Mold": {
+    "etiqueta": "Moho de hoja",
+    "agente": "Hongo (Passalora fulva)",
+    "tieneTratamiento": true,
+    "causa": "Humedad relativa muy alta (más de 85 %), poca ventilación y hojas mojadas muchas horas. Es muy común en invernaderos.",
+    "sintomas": "Manchas amarillo pálido en la parte de arriba de la hoja y, en el envés, un moho aterciopelado verde oliva a café.",
+    "tratamiento": "Bajar la humedad y ventilar. Quitar las hojas afectadas y aplicar fungicidas según la etiqueta.",
+    "prevencion": "Variedades resistentes, más espacio entre plantas, podar hojas bajas, regar por goteo y de preferencia por la mañana."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "etiqueta": "Mancha foliar Septoria",
+    "agente": "Hongo (Septoria lycopersici)",
+    "tieneTratamiento": true,
+    "causa": "Hongo que vive en restos de cosecha y se esparce con salpicaduras de lluvia o riego. Se favorece con clima húmedo y templado.",
+    "sintomas": "Muchas manchas circulares pequeñas con centro grisáceo o blanquecino, borde café oscuro y puntitos negros al centro. Empieza en las hojas de abajo.",
+    "tratamiento": "Quitar las hojas bajas afectadas y aplicar fungicidas cada 7 a 10 días mientras siga el clima húmedo. Evitar mojar el follaje.",
+    "prevencion": "Rotar cultivos 2 o 3 años, eliminar restos de cosecha y malezas solanáceas, usar acolchado y regar por la base."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "etiqueta": "Araña roja",
+    "agente": "Plaga: ácaro (Tetranychus urticae)",
+    "tieneTratamiento": true,
+    "causa": "No es una enfermedad sino ácaros diminutos que chupan la savia por el envés. Se multiplican con clima caliente y seco, polvo y uso excesivo de insecticidas que matan a sus enemigos naturales.",
+    "sintomas": "Puntitos amarillos o blanquecinos, hojas bronceadas que se secan y telarañas muy finas en el envés.",
+    "tratamiento": "Lavar el envés con chorro de agua, aplicar jabón potásico, aceite de neem o aceites hortícolas y, si es necesario, un acaricida autorizado, alternando productos.",
+    "prevencion": "Revisar el envés con frecuencia, riego adecuado, reducir el polvo, eliminar malezas y evitar insecticidas de amplio espectro."
+  },
+  "Tomato__Target_Spot": {
+    "etiqueta": "Mancha objetivo",
+    "agente": "Hongo (Corynespora cassiicola)",
+    "tieneTratamiento": true,
+    "causa": "Hongo que persiste en restos de cultivo. Se favorece con humedad alta, calor, follaje denso y poca ventilación.",
+    "sintomas": "Manchas café con anillos concéntricos y halo amarillo; puede pasar a tallos y frutos. Se parece mucho al tizón temprano.",
+    "tratamiento": "Podar las hojas bajas y las afectadas. Aplicar fungicidas alternando ingredientes activos según la etiqueta.",
+    "prevencion": "Mejorar la ventilación, dar espacio entre plantas, regar por la base, rotar cultivos y retirar restos de la cosecha."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "etiqueta": "Virus de enrollamiento amarillo",
+    "agente": "Virus (TYLCV, transmitido por mosca blanca)",
+    "tieneTratamiento": false,
+    "causa": "Un begomovirus que transmite la mosca blanca (Bemisia tabaci) al picar las plantas. No se contagia por tocar las hojas. Es más frecuente con clima cálido y muchas moscas blancas.",
+    "sintomas": "Hojas pequeñas enrolladas hacia arriba, bordes amarillos, planta achaparrada, caída de flores y poca producción.",
+    "tratamiento": "NO TIENE CURA. Se arrancan y destruyen las plantas infectadas y se controla la mosca blanca con trampas amarillas, jabón potásico, aceite de neem o insecticidas autorizados.",
+    "prevencion": "Malla antiinsectos en semilleros e invernaderos, variedades tolerantes, eliminar malezas hospederas y trasplantar solo plántulas sanas."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "etiqueta": "Virus mosaico",
+    "agente": "Virus (Tomato mosaic virus, ToMV)",
+    "tieneTratamiento": false,
+    "causa": "Virus muy resistente que se transmite por contacto: manos, herramientas, ropa, tutores, semilla contaminada y restos de plantas enfermas.",
+    "sintomas": "Manchado en mosaico de verde claro y oscuro, hojas deformes o muy alargadas, planta achaparrada y frutos manchados.",
+    "tratamiento": "NO TIENE CURA. Arrancar y embolsar las plantas infectadas, no tocar plantas sanas después de tocar las enfermas y desinfectar herramientas y manos.",
+    "prevencion": "Semilla certificada y variedades resistentes, lavarse las manos con jabón, desinfectar herramientas, no manipular tabaco antes de trabajar el cultivo y limpiar restos de cosecha."
+  },
+  "Tomato_healthy": {
+    "etiqueta": "Hoja sana",
+    "agente": "Ninguno detectado",
+    "tieneTratamiento": true,
+    "sana": true,
+    "causa": "No se detectó ninguna enfermedad ni plaga. La hoja se ve saludable.",
+    "sintomas": "Sin síntomas visibles.",
+    "tratamiento": "No requiere tratamiento.",
+    "prevencion": "Mantener riego equilibrado, buena fertilización y ventilación, revisar el envés de las hojas periódicamente y retirar hojas secas del suelo."
+  }
+}
